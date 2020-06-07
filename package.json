@@ -1,5 +1,5 @@
 {
-  "name": "waves",
+  "name": "truckr",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,6 +9,9 @@
     "server": "nodemon server/server.js",
     "client": "npm run start --prefix client",
     "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "engines":{
+    "node": "12.16.2"
   },
   "author": "",
   "license": "ISC",
