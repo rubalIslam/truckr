@@ -122,7 +122,7 @@ class Header extends Component {
                 <div className="container">
                     <div className="left">
                         <div className="logo">
-                            TH
+                            TH ট্রাক আর
                         </div>
                     </div>
                     <div className="right">
