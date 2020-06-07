@@ -11,7 +11,7 @@ const Footer = () => {
         <footer className="bck_b_dark">
             <div className="container">
                 <div className="logo">
-                    TrucksHere
+                    TrucksHere ট্রাক আর
                 </div>
                 <div className="wrapper">
                     <div className="left">
