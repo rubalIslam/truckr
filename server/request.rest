@@ -1,0 +1,1 @@
+GET http://localhost:3002/api/trucks/book?page=1&limit=2
