@@ -24,7 +24,8 @@ const Footer = () => {
                                 />
                                 <div className="nfo">
                                     <div>Address</div>
-                                    <div>Kramer 2345</div>
+                                    <div>Developed by : Bedarul Islam Laskar</div>
+                                    <div>Hailakandi W/O 2, beside Townhall, Hailakandi</div>
                                 </div>
                             </div>
                             <div className="tag">
@@ -34,7 +35,7 @@ const Footer = () => {
                                 />
                                 <div className="nfo">
                                     <div>Phone</div>
-                                    <div>2345-22222</div>
+                                    <div>99234-7316</div>
                                 </div>
                             </div>
                             <div className="tag">
@@ -54,7 +55,7 @@ const Footer = () => {
                                 />
                                 <div className="nfo">
                                     <div>Email</div>
-                                    <div>nfo@waves.com</div>
+                                    <div>bedarul@truckr.com</div>
                                 </div>
                             </div>
                         </div>
